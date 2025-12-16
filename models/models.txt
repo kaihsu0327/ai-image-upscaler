@@ -1,0 +1,5 @@
+Download Real-ESRGAN
+
+Download from Real-ESRGAN Releases
+Extract realesrgan-ncnn-vulkan.exe to the project root
+Extract the models folder to the project root
